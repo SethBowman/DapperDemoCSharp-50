@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ORMDapperDemoCSharp-50")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3329000be10645241eb5c7f04f6a87ca3eca0816")]
 [assembly: System.Reflection.AssemblyProductAttribute("ORMDapperDemoCSharp-50")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ORMDapperDemoCSharp-50")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
